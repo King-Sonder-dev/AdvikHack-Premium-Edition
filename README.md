@@ -1,4 +1,4 @@
-<h1 align="center">Advickhack 0.69 Shrimphack Edition Premium</h1>
+<h1 align="center">Advickhack 0.69 witch gang Edition Premium</h1>
 
 # Why?
 i got jar
@@ -11,7 +11,7 @@ i got jar
 
 # Credits
 - advik - Making this client.
-- [Inject][1] - Cracking.
+- Witch Gang - Cracking.
 - kokos - Jar.
 
 # goofy shit
